@@ -1,2 +1,3 @@
 # javascript_basico
-Javascript Basico
+
+Repositorio creado para la enseñanza de Javascript Básico.
